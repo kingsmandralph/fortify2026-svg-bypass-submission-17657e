@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Wed, 25 Nov 2026 13:23:51 GMT
+Content-Type: image/webp
+Content-Length: 158
+Connection: keep-alive
+Vary: Accept
+Cache-Control: public, max-age=14400, must-revalidate
+ETag: 3wm7HqVcd6525kEeNAeCAOn9bct7PBgIRy4mhzCE-IY
+Content-Disposition: attachment; filename="b86dc16c-6c09-4263-be86-08cd90442615.webp"
+Content-Security-Policy: script-src 'none'; frame-src 'none'; sandbox;
+X-Nextjs-Cache: MISS
+Referrer-Policy: no-referrer-when-downgrade
+Access-Control-Allow-Origin: https://nithub.unilag.edu.ng
+Access-Control-Allow-Methods: GET, POST, OPTIONS, PUT, DELETE, PATCH
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept, Authorization, User-Agent, Keep-Alive
+Access-Control-Max-Age: 1728000
+

@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Wed, 25 Nov 2026 13:18:58 GMT
+Content-Type: image/png
+Content-Length: 497
+Connection: keep-alive
+Vary: Accept
+Cache-Control: public, max-age=14400, must-revalidate
+ETag: qE5KZFY8b0ap3ilrQGcXKIbTKkGPgkCSSeSJ34AtNDw
+Content-Disposition: attachment; filename="icon.png"
+Content-Security-Policy: script-src 'none'; frame-src 'none'; sandbox;
+X-Nextjs-Cache: HIT
+Referrer-Policy: no-referrer-when-downgrade
+Access-Control-Allow-Origin: https://nithub.unilag.edu.ng
+Access-Control-Allow-Methods: GET, POST, OPTIONS, PUT, DELETE, PATCH
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept, Authorization, User-Agent, Keep-Alive
+Access-Control-Max-Age: 1728000
+

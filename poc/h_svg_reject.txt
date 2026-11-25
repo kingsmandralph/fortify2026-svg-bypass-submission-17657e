@@ -1,0 +1,11 @@
+HTTP/1.1 400 Bad Request
+Server: nginx/1.18.0 (Ubuntu)
+Date: Wed, 25 Nov 2026 13:19:06 GMT
+Transfer-Encoding: chunked
+Connection: keep-alive
+Referrer-Policy: no-referrer-when-downgrade
+Access-Control-Allow-Origin: https://nithub.unilag.edu.ng
+Access-Control-Allow-Methods: GET, POST, OPTIONS, PUT, DELETE, PATCH
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept, Authorization, User-Agent, Keep-Alive
+
